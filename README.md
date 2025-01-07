@@ -34,10 +34,10 @@ pip install -r requirements.txt
 ```
 
 This will install the following dependencies:
--- requests - for making HTTP requests to fetch the generated image.
--- Pillow - for working with images in Python.
--- pollinations - for interacting with the Pollinations API to generate images.
--- tkinter - for creating the GUI to display images and other tools.
+- requests - for making HTTP requests to fetch the generated image.
+- Pillow - for working with images in Python.
+- pollinations - for interacting with the Pollinations API to generate images.
+- tkinter - for creating the GUI to display images and other tools.
 
 
 ### Step 3: Run the Application
