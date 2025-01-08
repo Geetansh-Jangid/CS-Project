@@ -27,11 +27,11 @@ git clone https://github.com/Geetansh-Jangid/CS-Project/
 ```
 For linux(and mac os) :-
 ```bash
-cd CS-project
+cd CS-Project
 ```
 For windows :-
 ```bash
-chdir CS-project
+chdir CS-Project
 ```
 ### Step 2: Install dependencies
 
