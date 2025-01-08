@@ -1,5 +1,8 @@
 import requests
 import os
+from dotenv import load_dotenv, dotenv_values
+load_dotenv() 
+
 def weather_checker():
     print("\n=== Weather Checker ===")
     city = input("Enter the city name: ")
