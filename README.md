@@ -25,6 +25,14 @@ Clone this repository to your local machine using Git:
 ```bash
 git clone https://github.com/Geetansh-Jangid/CS-Project/
 ```
+For linux(and mac os) :-
+```bash
+cd CS-project
+```
+For windows :-
+```bash
+chdir CS-project
+```
 ### Step 2: Install dependencies
 
 You can install the required dependencies listed in the requirements.txt file using pip:
