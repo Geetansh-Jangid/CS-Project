@@ -38,6 +38,7 @@ This will install the following dependencies:
 - Pillow - for working with images in Python.
 - pollinations - for interacting with the Pollinations API to generate images.
 - tkinter - for creating the GUI to display images and other tools.
+- python-dotenv - used for accessing the api keys
 
 
 ### Step 3: Run the Application
