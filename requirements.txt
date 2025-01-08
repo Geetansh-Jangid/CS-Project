@@ -2,4 +2,4 @@ requests
 Pillow
 pollinations
 tk
-python-dotenv
+dotenv
