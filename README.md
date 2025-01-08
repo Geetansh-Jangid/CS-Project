@@ -1,6 +1,6 @@
 # Tool Suite made in Python
 
-This project provides a suite of tools that includes an **Image Generator**, **Chatbot**, **Unit Converter**, **Graph Plotter**, and other utilities, all accessible through a simple text-based dashboard. The Image Generator fetches and displays generated images based on user input, while providing options to download them.
+This project provides a suite of tools that includes an **Image Generator**, **Chatbot**, **Unit Converter**, **Graph Plotter**, and other utilities, all accessible through a simple text-based dashboard.
 
 ## Features
 
