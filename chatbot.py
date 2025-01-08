@@ -1,4 +1,6 @@
 import os
+from dotenv import load_dotenv, dotenv_values
+load_dotenv() 
 import google.generativeai as genai
 
 # Configure the API
