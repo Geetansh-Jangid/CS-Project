@@ -33,6 +33,26 @@ For windows :-
 ```bash
 chdir CS-Project
 ```
+#### Optional
+##### Create a Virtual Environment
+- Create a virtual environment inside the project directory:
+```bash
+python3 -m venv venv
+```
+This creates a venv directory.
+
+- Activate the virtual environment:
+
+On Linux/Mac:
+```bash
+source venv/bin/activate
+```
+On Windows:
+```bash
+.\venv\Scripts\activate
+```
+You should see (venv) at the beginning of your terminal prompt, indicating the virtual environment is active.
+
 ### Step 2: Install dependencies
 
 You can install the required dependencies listed in the requirements.txt file using pip:
