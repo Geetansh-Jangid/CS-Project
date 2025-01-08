@@ -33,7 +33,7 @@ For windows :-
 ```bash
 chdir CS-Project
 ```
-#### Optional
+#### Optional (But Recommended)
 ##### Create a Virtual Environment
 - Create a virtual environment inside the project directory:
 ```bash
