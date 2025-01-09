@@ -62,7 +62,7 @@ pip install -r requirements.txt
 ```
 If the above command fails, use:
 ```bash 
-pip install requests Pillow pollinations python-dotenv google.generativeai
+pip install requests Pillow pollinations google.generativeai
 ```
 
 This will install the following dependencies:
