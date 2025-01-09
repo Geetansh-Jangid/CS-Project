@@ -3,3 +3,4 @@ Pillow
 pollinations
 google.generativeai
 matplotlib
+PyQt6
