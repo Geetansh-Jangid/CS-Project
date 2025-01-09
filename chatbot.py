@@ -1,10 +1,8 @@
 import os
-from dotenv import load_dotenv, dotenv_values
-load_dotenv() 
 import google.generativeai as genai
 
 # Configure the API
-genai.configure(api_key=os.environ["GEMINI_API_KEY"])
+genai.configure(api_key="AIzaSyCbJjktthW0CB2kgneplbJ75EhOOobZEUw")
 
 # Chatbot function
 def start_chatbot(user_input):
