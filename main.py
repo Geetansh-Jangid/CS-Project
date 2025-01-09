@@ -65,19 +65,18 @@ def main():
             unit_converter_menu()
         elif choice == '4':
             graph_plotter_menu()
-        elif choice == '9':
-            print("Exiting program. Goodbye!")
         elif choice == '5':
             csv_editor_menu()
             sys.exit()
         elif choice == '7':
             password_generator.password_generator()
-            
         elif choice == '6':
             file_organizer.file_organizer()
-            
         elif choice == '8':
             weather.weather_checker()
+        elif choice == '9':
+            print("Exiting program. Goodbye!")
+            break
         else:
             print("Invalid choice. Please try again.")
 
