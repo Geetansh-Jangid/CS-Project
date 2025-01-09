@@ -60,6 +60,10 @@ You can install the required dependencies listed in the requirements.txt file us
 ```bash 
 pip install -r requirements.txt
 ```
+If the above command fails, use:
+```bash 
+pip install requests Pillow pollinations python-dotenv tk
+```
 
 This will install the following dependencies:
 - requests - for making HTTP requests to fetch the generated image.
