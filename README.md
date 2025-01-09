@@ -1,17 +1,14 @@
 # Tool Suite made in Python
 
-This project provides a suite of tools that includes an **Image Generator**, **Chatbot**, **Unit Converter**, **Graph Plotter**, and other utilities, all accessible through a simple text-based dashboard.
+This project provides a suite of tools that includes an **Image Generator**, **Chatbot**, **All in one CSV editor**, and other utilities, all accessible through a simple text-based dashboard.
 
 ## Features
 
 - **Image Generator**: Generate and display images based on prompts, with an option to download the generated image.
 - **Chatbot**: A chatbot to assist with Computer Science concepts and debugging.
-- **Unit Converter**: A simple tool to convert units between different categories.
-- **Graph Plotter**: Plot graphs based on user input.
 - **CSV File Modifier**: Allows you to create or modify existing CSV files easily.
 - **File Organiser**: A simple tool to manage your files
 - **Password Generator**: A password generator tool
-- **Weather**: Shows current weather of a city.
 
 ## Installation
 
@@ -62,15 +59,14 @@ pip install -r requirements.txt
 ```
 If the above command fails, use:
 ```bash 
-pip install requests Pillow pollinations google.generativeai matplotlib PyQt6
+pip install requests Pillow pollinations google.generativeai
 ```
 
 This will install the following dependencies:
 - requests - for making HTTP requests to fetch the generated image.
 - Pillow - for working with images in Python.
 - pollinations - for interacting with the Pollinations API to generate images.
-- tkinter - for creating the GUI to display images and other tools.
-- dotenv - used for accessing the api keys
+- google.generativeai - for accessing gemini api
 
 
 ### Step 3: Run the Application
