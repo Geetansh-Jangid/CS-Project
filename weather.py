@@ -6,7 +6,7 @@ load_dotenv()
 def weather_checker():
     print("\n=== Weather Checker ===")
     city = input("Enter the city name: ")
-    api_key=os.environ["WEATHER_API_KEY"]
+    api_key="48733f7654aeed178c014c5290e33db0"
     url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}&units=metric"
 
     try:
