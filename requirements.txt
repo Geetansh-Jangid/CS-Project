@@ -1,6 +1,5 @@
 requests
 Pillow
 pollinations
-tk
 dotenv
 google.generativeai
