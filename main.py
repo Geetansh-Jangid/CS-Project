@@ -32,7 +32,7 @@ def csv_editor_menu():
     csv_editor.csv_editor()
 
 def file_organizer_menu():
-    file_organiser.file_organizer()
+    file_organiser.file_organiser()
 
 def password_generator_menu():
     password_generator.password_generator()
@@ -50,7 +50,7 @@ def main():
             csv_editor_menu()
             sys.exit()
         elif choice == '4':
-            file_organizer.file_organizer()
+            file_organizer_menu()
         elif choice == '5':
             password_generator.password_generator()
         elif choice == '6':
