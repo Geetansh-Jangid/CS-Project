@@ -32,7 +32,7 @@ def csv_editor_menu():
     csv_editor.csv_editor()
 
 def file_organizer_menu():
-    file_organiser.file_organiser()
+    file_organiser.file_organizer()
 
 def password_generator_menu():
     password_generator.password_generator()
