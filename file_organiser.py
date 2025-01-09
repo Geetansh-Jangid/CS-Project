@@ -10,6 +10,7 @@ def file_organizer():
         return
 
     file_types = {
+        "Audio": [".mp3", ".wav", ".m4a", ".aac"],
         "Images": [".jpg", ".jpeg", ".png", ".gif"],
         "Videos": [".mp4", ".mkv", ".flv", ".avi"],
         "Documents": [".pdf", ".docx", ".xlsx", ".txt"],
